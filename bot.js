@@ -45,7 +45,7 @@ var subcat_shortcuts = {"av": "audiovisual", "afa":"auditory", "vfa": "visual", 
 var public_presets = {};
 var blacklist = {};
 
-var gist_token = "afe21540b431b1d6de29f3468cd20d11977018eb"
+var gist_token = ""
 
 const GistClient = require("gist-client")
 const gistClient = new GistClient()
