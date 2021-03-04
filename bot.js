@@ -1299,4 +1299,4 @@ client.on('message', async msg => {
 });
 
 // Log our bot in using the token from https://discord.com/developers/applications
-client.login('Mjk0ODg5ODc1OTQ0MTEyMTI4.WNVbmQ.W8kLE207tu_qBO4RqERE1ChgZZw');
+client.login('TOKEN');
